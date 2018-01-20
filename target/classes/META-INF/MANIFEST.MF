@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-mybatis-mulidatasource
+Implementation-Version: 1.0.0
+Built-By: xdsm
+Implementation-Vendor-Id: com.neo
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ mybatis-mulidatasource/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
